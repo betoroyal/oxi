@@ -1,0 +1,5 @@
+C:\Users\Tude\Documents\Visual Studio 2008\Projects\WSPublica\WSPublica\bin\WSPublica.dll
+C:\Users\Tude\Documents\Visual Studio 2008\Projects\WSPublica\WSPublica\bin\WSPublica.pdb
+C:\Users\Tude\Documents\Visual Studio 2008\Projects\WSPublica\WSPublica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tude\Documents\Visual Studio 2008\Projects\WSPublica\WSPublica\obj\Debug\WSPublica.dll
+C:\Users\Tude\Documents\Visual Studio 2008\Projects\WSPublica\WSPublica\obj\Debug\WSPublica.pdb
